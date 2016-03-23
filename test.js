@@ -1,4 +1,4 @@
-var rangeQuery = require('.');
+var rangeQuery = require('./index.js');
 var assert = require('assert');
 
 describe('1d-range-query', function () {
